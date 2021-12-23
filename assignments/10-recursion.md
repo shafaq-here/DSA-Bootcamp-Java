@@ -2,6 +2,7 @@
 - [Complete Recursion Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
 
 # Problems
+# Come again and try last 5 easy ones from GFG, seem important to me . Do you feel the same bruh ?
 
 ## Easy
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
